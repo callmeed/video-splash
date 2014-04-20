@@ -8,15 +8,3 @@
   min-width: 100%;
   height:auto;
 }
-#top-content {
-  padding-top:200px;
-  min-height: 600px;
-  color:#fff;
-  background: transparent url('dither.png') repeat top left;
-}
-#top-content h1 {
-  font-size:60px;
-}
-#main-content {
-  background-color:#fff;
-}
